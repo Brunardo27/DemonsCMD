@@ -2,7 +2,7 @@
 <h3>DemonsCMD - Geometry Dash Demon manager</h3>
 <h6>Versión 1.2.1</h6>
 
-Este programa es una linea de comandos donde los archivos son demons. Te permite apuntar los demons que te has pasado y analizarlos.
+Este programa es una linea de comandos donde los demons serían como los archivos. Te permite apuntar los demons que te has pasado y analizarlos.
 
 Estructura del código:
 
